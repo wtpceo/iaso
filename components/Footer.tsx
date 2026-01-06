@@ -230,9 +230,9 @@ const Footer = () => {
             <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-6 text-sm text-gray-400">
               <p>&copy; {currentYear} 이아소 에스테틱. All rights reserved.</p>
               <div className="flex items-center space-x-4">
-                <span>사업자등록번호: 000-00-00000</span>
+                <span>사업자등록번호: 443-15-00287</span>
                 <span>|</span>
-                <span>대표: 이아소</span>
+                <span>대표: 이아소에스테틱</span>
               </div>
             </div>
 
